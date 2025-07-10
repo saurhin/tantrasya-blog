@@ -1,0 +1,16 @@
+title: Tantrasya Journal
+description: Sacred Healing & Cosmic Insight by Saurhin Parikh
+theme: jekyll-theme-chirpy
+lang: en
+timezone: Asia/Kolkata
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+google_analytics: 
+author:
+  name: Saurhin Parikh
+  bio: Seeker, healer, investigator of the unseen.
+  location: Mumbai, India
+  email: saurhin@gmail.com
