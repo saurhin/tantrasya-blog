@@ -2,7 +2,7 @@ title: Tantrasya
 tagline: A Journey into the Esoteric, Occult and Quantum Realms
 description: Insights into healing, tantra, karma, and the sacred geometry of existence.
 url: ""
-baseurl: ""
+baseurl: "/tantrasya-blog"
 
 remote_theme: cotes2020/jekyll-theme-chirpy@v5.2.1
 lang: en
