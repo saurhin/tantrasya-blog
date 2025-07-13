@@ -1,0 +1,32 @@
+title: Tantrasya
+tagline: A Journey into the Esoteric, Occult and Quantum Realms
+description: Insights into healing, tantra, karma, and the sacred geometry of existence.
+url: ""
+baseurl: ""
+
+remote_theme: cotes2020/jekyll-theme-chirpy@v5.2.1
+lang: en
+timezone: Asia/Kolkata
+
+author:
+  name: Saurhin Parikh
+  bio: Seeker, Healer, Occultist
+
+logo: /assets/img/profile.png
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-tagging
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Saurhin
