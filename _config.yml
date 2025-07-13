@@ -3,7 +3,7 @@ tagline: A Journey into the Esoteric, Occult and Quantum Realms
 description: Insights into healing, tantra, karma, and the sacred geometry of existence.
 url: ""  # Will be set later based on domain
 baseurl: ""  # Leave blank for root or /blog for subpath
-theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
 lang: en
 timezone: Asia/Kolkata
 
