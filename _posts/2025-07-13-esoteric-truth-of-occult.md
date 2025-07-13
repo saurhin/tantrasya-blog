@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hidden Truth of Karma"
+title: "Esoteric Truth of occult"
 date: 2025-07-13
 categories: [Spirituality, Karma]
 tags: [esoteric, witchcraft, Occult]
