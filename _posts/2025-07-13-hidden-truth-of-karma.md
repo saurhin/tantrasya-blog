@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Laws of Karma"
+title: "Hidden Truth of Karma"
 date: 2025-07-13
 categories: [Spirituality, Karma]
-tags: [geometry, soul, cosmic-patterns]
+tags: [karmic, soul, cosmic-patterns]
 pin: true
 ---
 
