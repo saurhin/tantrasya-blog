@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Esoteric Truth of occult"
+title: "Esoteric Truth of Occult"
 date: 2025-07-13
 categories: [Spirituality, Karma]
-tags: [esoteric, witchcraft, Occult]
+tags: [esoteric, witchcraft, occult]
 pin: false
 ---
 
@@ -12,7 +12,7 @@ Every action we perform ripples through the universe like a fractal — precise,
 
 🌿 **What is Occult?**
 
- is the divine language of form. From the spiral of galaxies to the spiral of our DNA, it shows how all life is connected through shape and vibration.
+Occult is the divine language of form. From the spiral of galaxies to the spiral of our DNA, it shows how all life is connected through shape and vibration.
 
 🌀 **Esoteric as a Pattern**
 
