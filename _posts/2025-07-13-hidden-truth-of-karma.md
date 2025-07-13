@@ -3,18 +3,18 @@ layout: post
 title: "Hidden Truth of Karma"
 date: 2025-07-13
 categories: [Spirituality, Karma]
-tags: [karmic, soul, cosmic-patterns]
+tags: [esoteric, witchcraft, Occult]
 pin: true
 ---
 
 In the vast interplay of energy and intention, karma follows a path not of punishment but of **sacred geometry**.  
 Every action we perform ripples through the universe like a fractal — precise, mirrored, and infinite.
 
-🌿 **What is Sacred Geometry?**
+🌿 **What is Occult?**
 
-Sacred geometry is the divine language of form. From the spiral of galaxies to the spiral of our DNA, it shows how all life is connected through shape and vibration.
+ is the divine language of form. From the spiral of galaxies to the spiral of our DNA, it shows how all life is connected through shape and vibration.
 
-🌀 **Karma as a Pattern**
+🌀 **Esoteric as a Pattern**
 
 > "As above, so below. As within, so without." — Hermetic Principle
 
