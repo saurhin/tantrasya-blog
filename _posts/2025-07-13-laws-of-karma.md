@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laws of Karma"
-date: 2025-07-13 04:00:00 +0530
+date: 2025-07-13
 categories: [Spirituality, Karma]
 tags: [geometry, soul, cosmic-patterns]
 pin: true
