@@ -4,7 +4,7 @@ title: "Esoteric Truth of occult"
 date: 2025-07-13
 categories: [Spirituality, Karma]
 tags: [esoteric, witchcraft, Occult]
-pin: true
+pin: false
 ---
 
 In the vast interplay of energy and intention, karma follows a path not of punishment but of **sacred geometry**.  
