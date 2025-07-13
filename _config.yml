@@ -37,7 +37,8 @@ defaults:
     values:
       layout: post
       author: Saurhin
-read_time: true
+read_time:
+  enabled: true
 
 page:
   show_reading_time: false
