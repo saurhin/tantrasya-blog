@@ -21,6 +21,7 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-tagging
+  - jekyll-remote-theme
 
 defaults:
   - scope:
