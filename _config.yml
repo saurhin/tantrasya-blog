@@ -19,7 +19,8 @@ future: true
 
 # Chirpy Theme setup
 
-remote_theme: cotes2020/jekyll-theme-chirpy@v5.0.1
+remote_theme: cotes2020/jekyll-theme-chirpy@v4.1.1
+
 
 plugins:
   - jekyll-feed
