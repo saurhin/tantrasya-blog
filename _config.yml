@@ -18,7 +18,7 @@ logo: /tantrasya-blog/assets/img/profile.png
 future: true
 
 # Chirpy Theme setup
-theme: jekyll-theme-chirpy
+
 remote_theme: cotes2020/jekyll-theme-chirpy@v5.0.1
 
 plugins:
