@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sacred Geometry of Karma"
-date: 2025-07-14 09:00:00 +0530
+date: 2025-07-13 09:00:00 +0530
 categories: [Spirituality, Karma]
 tags: [geometry, soul, cosmic-patterns]
 pin: true
