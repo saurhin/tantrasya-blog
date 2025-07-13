@@ -4,7 +4,6 @@ description: Insights into healing, tantra, karma, and the sacred geometry of ex
 url: "https://saurhin.github.io"
 baseurl: "/tantrasya-blog"
 
-remote_theme: cotes2020/jekyll-theme-chirpy@v5.0.1
 lang: en
 timezone: Asia/Kolkata
 
