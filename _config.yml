@@ -1,9 +1,9 @@
 title: Tantrasya
 tagline: A Journey into the Esoteric, Occult and Quantum Realms
 description: Insights into healing, tantra, karma, and the sacred geometry of existence.
+
 url: "https://saurhin.github.io"
 baseurl: "/tantrasya-blog"
-read_time: false
 
 lang: en
 timezone: Asia/Kolkata
@@ -14,12 +14,22 @@ author:
 
 logo: /tantrasya-blog/assets/img/profile.png
 
+# Add this to allow future-dated posts (very important!)
+future: true
+
+# Chirpy Theme setup
+theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy@v5.0.1
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-include-cache
 
+# Required default layout
 defaults:
   - scope:
       path: ""
