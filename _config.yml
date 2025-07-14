@@ -6,7 +6,7 @@ baseurl: "/tantrasya-blog"
 lang: en
 timezone: Asia/Kolkata
 read_time: false
-
+remote_theme: cotes2020/jekyll-theme-chirpy@v5.0.1
 author:
   name: Saurhin Parikh
   bio: Seeker, Healer, Occultist
