@@ -1,8 +1,7 @@
 ---
-layout: home
-title: Welcome to Tantrasya
-subtitle: A Journey into the Esoteric, Occult and Quantum Realms
+layout: page
+title: Tantrasya Blog
+subtitle: Explore posts on karma, tantra, sacred geometry, and esoteric wisdom.
 ---
 
-Explore esoteric truths, karma, sacred geometry, tantra, and more.
-Dive into spiritual knowledge curated by Saurhin.
+{% include posts.html %}
