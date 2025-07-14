@@ -1,17 +1,25 @@
-/* custom.css — Basic spacing and readability fixes */
-
-.post-content {
-  padding: 1rem 2rem;
-  line-height: 1.8;
+/* Make post content centered and more readable */
+.post {
   max-width: 800px;
   margin: 0 auto;
+  padding: 2rem 1rem;
+  line-height: 1.8;
   font-size: 1.1rem;
 }
 
-article {
-  padding: 1rem 2rem;
+.post h1, .post h2, .post h3 {
+  margin-top: 2rem;
 }
 
-.page__content {
-  padding: 2rem;
+/* Add space between sections */
+.post p {
+  margin-bottom: 1.5rem;
+}
+
+/* Style blockquotes */
+blockquote {
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+  color: #555;
+  font-style: italic;
 }
