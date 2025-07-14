@@ -1,0 +1,17 @@
+/* custom.css — Basic spacing and readability fixes */
+
+.post-content {
+  padding: 1rem 2rem;
+  line-height: 1.8;
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+}
+
+article {
+  padding: 1rem 2rem;
+}
+
+.page__content {
+  padding: 2rem;
+}
