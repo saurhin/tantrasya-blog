@@ -21,3 +21,12 @@ layout: default
     <p>Posted by {{ page.author | default: site.author.name }}</p>
   </footer>
 </article>
+<div class="post-navigation">
+  {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}" class="prev-post">← {{ page.previous.title }}</a>
+  {% endif %}
+  
+  {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}" class="next-post">{{ page.next.title }} →</a>
+  {% endif %}
+</div>
